@@ -1,5 +1,6 @@
 **VOICE MAIL FOR BLIND**
-This Python project allows users to send emails through voice commands. Utilizing the speech_recognition and pyttsx3 libraries, the program listens for user input, processes it into text, and sends an email via Gmail SMTP. It can be extended for further functionality, making it a useful tool for hands-free email communication.
+
+This Python project allows Blind persons to send emails through voice commands. Utilizing the speech_recognition and pyttsx3 libraries, the program listens for user input, processes it into text, and sends an email via Gmail SMTP. It can be extended for further functionality, making it a useful tool for hands-free email communication.
 
 
 **Features**
